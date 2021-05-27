@@ -25,6 +25,6 @@ The Inline Function returns a table variable as a result of the function, derive
 #### Multi-Statement (Table-Valued) Functions
 A Multi-Statement Function returns a table variable as a result of actions performed by the function, but it can have more than one SQL statement.
 ## Reference
-(https://excelkingdom.blogspot.com/2018/01/how-to-create-scalar-inline-and-multi.html), 2021 (External Link). 
+[https://excelkingdom.blogspot.com/2018/01/how-to-create-scalar-inline-and-multi.html](https://excelkingdom.blogspot.com/2018/01/how-to-create-scalar-inline-and-multi.html), 2021 (External Link). 
 ## Summary
 In this Module, I answered all the questions related to the User Defined Functions (UDF), which allows you to perform customized tasks within it, scalar, and table-valued functions. Within the table valued functions, there is the inline and the multi-statement functions. 
